@@ -1,22 +1,21 @@
-## Description
-A student uploads 5 academic articles and asks:
+✨ Scenario 01: Peer-review articles Q&A
+✅ Demonstration:
+The student uploads five peer-reviewed articles and asks:
 
-> "What are the most common limitations of using decision trees in business analytics?"
+“What are the most common limitations of using decision trees in marketing analytics?”
 
-NotebookLM responds by:
-- Highlighting 3 articles with relevant answers
-- Quoting paragraphs directly from those sources
+NotebookLM highlights relevant excerpts from three sources, referencing overfitting, lack of generalization, and interpretability issues.
 
-## Evaluation
-- **Accuracy & Relevance:** High. Returned paragraphs contain terminology like "overfitting", "low interpretability", and "bias in categorical splitting", all aligned with textbook definitions.
-- **Academic Usefulness:** Very useful for cross-comparing sources without manually scanning PDFs.
-- **Limitations:** Cannot detect nuances like outdated or low-quality sources.
+🧠 Analysis:
 
-## Conclusion
-This feature enhances critical review skills and is suitable for production with human oversight.
+i. Accuracy & Relevance: NotebookLM accurately quotes relevant content and does not fabricate responses when data is unavailable.
 
-""",
+ii. Usefulness: Excellent for research queries, literature review, and comparative analysis.
 
-    "automatic_summarization.md": """# Scenario: Automatic Summarization
+iii. Limitations:
 
+Does not evaluate source contradictions.
 
+No weighting of evidence strength.
+
+Low hallucination risk due to grounded quoting.
