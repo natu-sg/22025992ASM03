@@ -1,11 +1,11 @@
-✨ 2. Automatic Summarization
+## ✨ 2. Automatic Summarization
 
 ✅ Demonstration:
 The student generates summaries of all five articles. Each summary condenses the study’s goal, dataset, technique, and findings into under 300 words. For example:
 
 “This study compares CART and CHAID for predicting churn, finding CHAID performs better on recall but has higher false positives.”
 
-🧠 Analysis:
+# 🧠 Analysis:
 
 i. Accuracy & Relevance: Captures key points but may omit details like sample size or statistical confidence.
 
