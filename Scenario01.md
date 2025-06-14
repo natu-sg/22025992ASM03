@@ -1,4 +1,4 @@
-✨ Scenario 01: Peer-review articles Q&A
+## ✨ Scenario 01: Peer-review articles Q&A
 
 ✅ Demonstration:
 The student uploads five peer-reviewed articles and asks:
@@ -7,7 +7,7 @@ The student uploads five peer-reviewed articles and asks:
 
 NotebookLM highlights relevant excerpts from three sources, referencing overfitting, lack of generalization, and interpretability issues.
 
-🧠 Analysis:
+# 🧠 Analysis:
 
 i. Accuracy & Relevance: NotebookLM accurately quotes relevant content and does not fabricate responses when data is unavailable.
 
