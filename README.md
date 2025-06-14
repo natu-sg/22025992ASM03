@@ -12,3 +12,8 @@ Google’s NotebookLM is an AI-powered note-taking and learning assistant design
 **Citation Tracking:** Cites the source location of AI-generated responses, supporting academic referencing and transparency.
 
 **Highlighting and Insights:** Identifies key insights and highlighted points within uploaded files, aiding fast comprehension
+
+1. [Scenario 1: Peer-review Q&A](Scenario01.md)
+2. [Scenario 2: Automatic Summarization](Scenario02.md)
+3. [Scenario 3: Notebook Organization](Scenario03.md)
+4. [Scenario 4: Highlighting and Insight Extraction](Scenario04.md)
